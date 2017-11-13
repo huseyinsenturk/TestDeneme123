@@ -6,6 +6,10 @@
 <bean id="fuel" class="cars.Gasoline">
 </bean>
 
+    <bean id="fuel1" class="cars.Electric">
+    </bean>
+
+
 
 <bean id="car" class="cars.Car">
     <constructor-arg ref="fuel"/>
