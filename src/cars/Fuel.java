@@ -1,7 +1,7 @@
 package cars;
 
 /**
- * Created by husey on 26/10/2017.
+ * Created by husey on 26/10/2017// selam beybi
  */
 /*
 public class Fuel {
