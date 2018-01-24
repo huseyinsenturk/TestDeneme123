@@ -4,5 +4,5 @@ public class NewCar {
 
 
 
-    //selam yeni araba
+    //hello
 }
