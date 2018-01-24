@@ -2,7 +2,7 @@ package cars;
 
 
 
-public class YeniJava {
+public class EskiJava {
 
     public void say(){
 
