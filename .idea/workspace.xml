@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88915d7e-1eab-416b-baff-d1a1fdd562ff" name="Default" comment="zpl ekledim">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ZPL.java" />
+    <list default="true" id="88915d7e-1eab-416b-baff-d1a1fdd562ff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cars/Car.java" afterPath="$PROJECT_DIR$/src/cars/Car.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,14 +31,24 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cars/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="282">
+              <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZPL.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZPL.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZPL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -80,10 +90,10 @@
         <option value="$PROJECT_DIR$/src/cars/Electric.java" />
         <option value="$PROJECT_DIR$/src/cars/Diesel.java" />
         <option value="$PROJECT_DIR$/src/cars/spring.xml" />
-        <option value="$PROJECT_DIR$/src/cars/Car.java" />
         <option value="$PROJECT_DIR$/src/cars/Main.java" />
         <option value="$PROJECT_DIR$/src/cars/NewCar.java" />
         <option value="$PROJECT_DIR$/src/ZPL.java" />
+        <option value="$PROJECT_DIR$/src/cars/Car.java" />
       </list>
     </option>
   </component>
@@ -129,6 +139,12 @@
               <item name="kitap_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="kitap_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kitap_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kitap_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cars" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -599,7 +615,7 @@
       <workItem from="1510929627689" duration="941000" />
       <workItem from="1511014745079" duration="320000" />
       <workItem from="1521578827532" duration="427000" />
-      <workItem from="1522699768354" duration="63000" />
+      <workItem from="1522699768354" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="Master a Newclas eklendi">
       <created>1511014950125</created>
@@ -608,11 +624,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511014950125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 1">
+      <created>1522699856584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522699856585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23720000" />
+    <option name="totallyTimeSpent" value="23811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -728,7 +751,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Master a Newclas eklendi" />
     <MESSAGE value="zpl ekledim" />
-    <option name="LAST_COMMIT_MESSAGE" value="zpl ekledim" />
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1069,13 +1093,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cars/NewCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1084,18 +1101,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cars/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ZPL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1454" lean-forward="false" selection-start-line="6" selection-start-column="1454" selection-end-line="6" selection-end-column="1454" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cars/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

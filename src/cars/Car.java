@@ -22,5 +22,10 @@ public  Car(Fuel fue1){
     public void moveOn(){
         fuel1.tang();
         System.out.println("The car is move");
-    }//DEĞİŞİKLİK YENi branchdaki değişikliks
+        System.out.println("The car is move");
+        System.out.println("The car is move");
+        System.out.println("The car is move");
+        System.out.println("The car is move");
+        System.out.println("The car is move");
+    }
 }
