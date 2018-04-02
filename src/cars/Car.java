@@ -23,7 +23,10 @@ public  Car(Fuel fue1){
         fuel1.tang();
         System.out.println("The car is move");
     }//DEĞİŞİKLİK YENi
-
+    public void moveOn1(){
+        fuel1.tang();
+        System.out.println("The car is move");
+    }//DEĞİŞİKLİK YENi
 
 
 }
